@@ -44,7 +44,7 @@ export async function getStaticPaths() {
     const countries = response.data;
 
     return {
-        fallback: false,
+        fallback: "blocking",
         paths: countries.map((country) => ({
             params: {
                 countryCode: country.cca3,
