@@ -1,0 +1,13 @@
+.body {
+    background-color: #eee;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    height: max-content;
+    padding-left: 150px;
+    font-size: large;
+    margin-top: 0px;
+}
+
+.links {
+    padding: 5px;
+}
