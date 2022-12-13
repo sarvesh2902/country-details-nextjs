@@ -1,4 +1,4 @@
-This website is live on - https://country-details-nextjs-sarveshpatil46.vercel.app/
+This website is live on - https://country-details-nextjs.vercel.app/
 <br/>
 <br/>
 <br/>
